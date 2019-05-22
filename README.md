@@ -1,0 +1,2 @@
+# sample-module
+サンプルモジュール
